@@ -116,9 +116,9 @@ A popular AI platform used for generating creative and high-quality visual conte
 
 ## Original Video
 
-
-*(Insert the provided video reference here)*
-
+<video width="600" controls>
+  <source src="original video.mp4" type="video/mp4">
+</video>
 ---
 
 ## Basic Prompt
